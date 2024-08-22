@@ -5,7 +5,7 @@ This repository contains the results of the benchmarks and their analysis for th
 - The _results_ folder contains the files for the two bencharks of the article.
   - _./CBS_ contains the results of the evaluation of the Balance Index, RMSDIR, RMSPMI and CBS for every protected attribute.
   - _./benchmark_ contains the results of the evaluation of the balancing strategies and resampling methods for each dataset.
-- The _figures_ folder contains the figures used in the article in a PDF format.
+- The _figures_ folder contains the figures used in the article in a PDF format (a some other unused ones).
 - The _full_benchmark_analysis.ipynb_ notebook contain the anaylsis of the benchmarks that produced the results presented in the article.
 - The _requirements.txt_ file gives the versions of the packages used for this analysis.
 
